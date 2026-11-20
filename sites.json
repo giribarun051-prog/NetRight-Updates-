@@ -1,0 +1,35 @@
+{
+  "telegram_url": "https://t.me/your_channel",
+  "sites": [
+    {
+      "name": "Pvrplay",
+      "url": "https://dbhnmkgjasgbv.example.com",
+      "category": "MOVIES"
+    },
+    {
+      "name": "Net77",
+      "url": "https://net77.cc",
+      "category": "MOVIES"
+    },
+    {
+      "name": "Yupflix",
+      "url": "https://yupflix.org",
+      "category": "SERIES"
+    },
+    {
+      "name": "Vidbox",
+      "url": "https://vidbox.cx",
+      "category": "SERIES"
+    },
+    {
+      "name": "AnimePahe",
+      "url": "https://animepahe.ru",
+      "category": "ANIME"
+    },
+    {
+      "name": "HiAnime",
+      "url": "https://hianime.to",
+      "category": "ANIME"
+    }
+  ]
+}
