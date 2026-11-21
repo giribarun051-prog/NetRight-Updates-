@@ -12,6 +12,11 @@
       "category": "MOVIES"
     },
      {
+      "name": "NetOut",
+      "url": "https://netout.pages.dev/browse",
+      "category": "MOVIES"
+    },
+     {
       "name": "TMouvies",
       "url": "https://tmovie.co/",
       "category": "MOVIES"
