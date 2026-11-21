@@ -2,6 +2,9 @@
   "telegram_url": "https://t.me/mouviebox",
   "default_tab": "MOVIES",
   "announcement": "",
+  "blocked_domains": [
+    "example-popunder.com"
+  ],
   "sites": [
     {
       "name": "Pvrplay",
