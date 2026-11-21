@@ -42,6 +42,11 @@
       "category": "SERIES"
     },
      {
+      "name": "ThugTv",
+      "url": "https://thugtv.st/search",
+      "category": "SERIES"
+    },
+     {
       "name": "CineBy",
       "url": "https://cineby.ws/movies/genre/crime",
       "category": "SERIES"
