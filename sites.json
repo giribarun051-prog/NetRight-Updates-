@@ -21,6 +21,11 @@
       "url": "https://skyflixer.fun/browse",
       "category": "MOVIES"
     },
+     {
+      "name": "CineBy",
+      "url": "https://cineby.ws/movies/genre/crime",
+      "category": "SERIES"
+    },
     {
       "name": "Goshtflix",
       "url": "https://ghostflix.st/",
