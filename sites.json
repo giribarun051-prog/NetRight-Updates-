@@ -14,6 +14,11 @@
       "category": "MOVIES"
     },
     {
+      "name": "SkyFlixer",
+      "url": "https://skyflixer.fun/browse",
+      "category": "MOVIES"
+    },
+    {
       "name": "Yupflix",
       "url": "https://yupflix.org",
       "category": "SERIES"
