@@ -12,6 +12,11 @@
       "category": "MOVIES"
     },
      {
+      "name": "TMouvies",
+      "url": "https://tmovie.co/",
+      "category": "MOVIES"
+    },
+     {
       "name": "ArrowTv",
       "url": "https://arrowtv.net/",
       "category": "MOVIES"
