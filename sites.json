@@ -2,11 +2,14 @@
   "telegram_url": "https://t.me/mouviebox",
   "default_tab": "MOVIES",
   "announcement": "",
+  "latest_version_code": 2,
+  "apk_url": "https://github.com/giribarun051-prog/NetRight-Updates-/releases/latest/download/app-debug.apk",
+  "update_message": "Notun Live TV tab ebong features eseche! Update korun.",
   "blocked_domains": [
     "example-popunder.com"
   ],
   "sites": [
-     {
+    {
       "name": "PopcornTv",
       "url": "https://popcorntv.site/",
       "category": "MOVIES"
@@ -16,17 +19,17 @@
       "url": "https://ghar-baithe-free-movies-dekho-bina-rukawat-pvrplay-hd.pvrplay.fun/",
       "category": "MOVIES"
     },
-     {
+    {
       "name": "NetOut",
       "url": "https://netout.pages.dev/browse",
       "category": "MOVIES"
     },
-     {
+    {
       "name": "TMouvies",
       "url": "https://tmovie.co/",
       "category": "MOVIES"
     },
-     {
+    {
       "name": "ArrowTv",
       "url": "https://arrowtv.net/",
       "category": "MOVIES"
@@ -41,17 +44,17 @@
       "url": "https://skyflixer.fun/browse",
       "category": "MOVIES"
     },
-     {
+    {
       "name": "FlexEo",
       "url": "https://flixeo.tv/home",
       "category": "SERIES"
     },
-     {
+    {
       "name": "ThugTv",
       "url": "https://thugtv.st/search",
       "category": "SERIES"
     },
-     {
+    {
       "name": "CineBy",
       "url": "https://cineby.ws/movies/genre/crime",
       "category": "SERIES"
@@ -66,7 +69,7 @@
       "url": "https://vidbox.cx",
       "category": "SERIES"
     },
-     {
+    {
       "name": "SubDub",
       "url": "https://www.subdubanime.site/?m=1",
       "category": "ANIME"
@@ -76,25 +79,30 @@
       "url": "https://aniflix.uno",
       "category": "ANIME"
     },
-     {
+    {
       "name": "PriratiXPlay",
       "url": "https://piratexplay.cc/home",
       "category": "ANIME"
     },
-     {
+    {
       "name": "AniWave",
       "url": "https://aniwaves.tv/home",
       "category": "ANIME"
     },
-     {
+    {
       "name": "AnimeSalt",
-      "url": "https://animesalt.cx//category/language/hindi/",
+      "url": "https://animesalt.cx/category/language/hindi/",
       "category": "ANIME"
     },
     {
       "name": "AnimeWorld",
       "url": "https://watchanimeworld.one",
       "category": "ANIME"
+    },
+    {
+      "name": "Live TV 1",
+      "url": "https://example-live-tv.com",
+      "category": "LIVE TV"
     }
   ]
 }
