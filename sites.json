@@ -6,6 +6,11 @@
     "example-popunder.com"
   ],
   "sites": [
+     {
+      "name": "PopcornTv",
+      "url": "https://popcorntv.site/",
+      "category": "MOVIES"
+    },
     {
       "name": "Pvrplay",
       "url": "https://ghar-baithe-free-movies-dekho-bina-rukawat-pvrplay-hd.pvrplay.fun/",
