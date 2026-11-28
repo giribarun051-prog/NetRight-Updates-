@@ -83,8 +83,13 @@
       "url": "https://aniflix.uno",
       "category": "ANIME"
     },
-    {
+     {
       "name": "18+Anime",
+      "url": "https://anikototv.bz/home",
+      "category": "ANIME"
+    },
+    {
+      "name": "Animex",
       "url": "https://anikototv.bz/home",
       "category": "ANIME"
     },
